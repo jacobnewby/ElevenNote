@@ -14,3 +14,11 @@ C:\ElevenFiftyProjects\1_Blue\Projects\ElevenNote\ElevenNote.Data\obj\Debug\Elev
 C:\ElevenFiftyProjects\1_Blue\Projects\ElevenNote\ElevenNote.Data\obj\Debug\ElevenNote.Data.csproj.CopyComplete
 C:\ElevenFiftyProjects\1_Blue\Projects\ElevenNote\ElevenNote.Data\obj\Debug\ElevenNote.Data.dll
 C:\ElevenFiftyProjects\1_Blue\Projects\ElevenNote\ElevenNote.Data\obj\Debug\ElevenNote.Data.pdb
+C:\ElevenFiftyProjects\1_Blue\Projects\ElevenNote\ElevenNote.Data\bin\Debug\Newtonsoft.Json.dll
+C:\ElevenFiftyProjects\1_Blue\Projects\ElevenNote\ElevenNote.Data\bin\Debug\System.Net.Http.Formatting.dll
+C:\ElevenFiftyProjects\1_Blue\Projects\ElevenNote\ElevenNote.Data\bin\Debug\System.Web.Http.dll
+C:\ElevenFiftyProjects\1_Blue\Projects\ElevenNote\ElevenNote.Data\bin\Debug\System.Web.Http.WebHost.dll
+C:\ElevenFiftyProjects\1_Blue\Projects\ElevenNote\ElevenNote.Data\bin\Debug\Newtonsoft.Json.xml
+C:\ElevenFiftyProjects\1_Blue\Projects\ElevenNote\ElevenNote.Data\bin\Debug\System.Net.Http.Formatting.xml
+C:\ElevenFiftyProjects\1_Blue\Projects\ElevenNote\ElevenNote.Data\bin\Debug\System.Web.Http.xml
+C:\ElevenFiftyProjects\1_Blue\Projects\ElevenNote\ElevenNote.Data\bin\Debug\System.Web.Http.WebHost.xml

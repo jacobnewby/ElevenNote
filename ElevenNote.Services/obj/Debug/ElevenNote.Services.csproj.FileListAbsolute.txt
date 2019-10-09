@@ -20,3 +20,11 @@ C:\ElevenFiftyProjects\1_Blue\Projects\ElevenNote\ElevenNote.Services\bin\Debug\
 C:\ElevenFiftyProjects\1_Blue\Projects\ElevenNote\ElevenNote.Services\bin\Debug\ElevenNote.Data.dll.config
 C:\ElevenFiftyProjects\1_Blue\Projects\ElevenNote\ElevenNote.Services\bin\Debug\ElevenNote.Models.pdb
 C:\ElevenFiftyProjects\1_Blue\Projects\ElevenNote\ElevenNote.Services\bin\Debug\ElevenNote.Models.dll.config
+C:\ElevenFiftyProjects\1_Blue\Projects\ElevenNote\ElevenNote.Services\bin\Debug\Newtonsoft.Json.dll
+C:\ElevenFiftyProjects\1_Blue\Projects\ElevenNote\ElevenNote.Services\bin\Debug\System.Net.Http.Formatting.dll
+C:\ElevenFiftyProjects\1_Blue\Projects\ElevenNote\ElevenNote.Services\bin\Debug\System.Web.Http.dll
+C:\ElevenFiftyProjects\1_Blue\Projects\ElevenNote\ElevenNote.Services\bin\Debug\System.Web.Http.WebHost.dll
+C:\ElevenFiftyProjects\1_Blue\Projects\ElevenNote\ElevenNote.Services\bin\Debug\Newtonsoft.Json.xml
+C:\ElevenFiftyProjects\1_Blue\Projects\ElevenNote\ElevenNote.Services\bin\Debug\System.Net.Http.Formatting.xml
+C:\ElevenFiftyProjects\1_Blue\Projects\ElevenNote\ElevenNote.Services\bin\Debug\System.Web.Http.xml
+C:\ElevenFiftyProjects\1_Blue\Projects\ElevenNote\ElevenNote.Services\bin\Debug\System.Web.Http.WebHost.xml
