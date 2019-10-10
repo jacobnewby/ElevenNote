@@ -1,5 +1,4 @@
 C:\ElevenFiftyProjects\1_Blue\Projects\ElevenNote\ElevenNote.WebMVC\obj\Debug\ElevenNote.WebMVC.csprojAssemblyReference.cache
-C:\ElevenFiftyProjects\1_Blue\Projects\ElevenNote\ElevenNote.WebMVC\obj\Debug\ElevenNote.WebMVC.csproj.CoreCompileInputs.cache
 C:\ElevenFiftyProjects\1_Blue\Projects\ElevenNote\ElevenNote.WebMVC\bin\ElevenNote.WebMVC.dll.config
 C:\ElevenFiftyProjects\1_Blue\Projects\ElevenNote\ElevenNote.WebMVC\bin\ElevenNote.WebMVC.dll
 C:\ElevenFiftyProjects\1_Blue\Projects\ElevenNote\ElevenNote.WebMVC\bin\ElevenNote.WebMVC.pdb

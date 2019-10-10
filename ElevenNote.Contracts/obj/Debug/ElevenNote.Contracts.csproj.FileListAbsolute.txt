@@ -10,7 +10,14 @@ C:\ElevenFiftyProjects\1_Blue\Projects\ElevenNote\ElevenNote.Contracts\bin\Debug
 C:\ElevenFiftyProjects\1_Blue\Projects\ElevenNote\ElevenNote.Contracts\bin\Debug\Microsoft.AspNet.Identity.Core.xml
 C:\ElevenFiftyProjects\1_Blue\Projects\ElevenNote\ElevenNote.Contracts\bin\Debug\Microsoft.AspNet.Identity.EntityFramework.xml
 C:\ElevenFiftyProjects\1_Blue\Projects\ElevenNote\ElevenNote.Contracts\obj\Debug\ElevenNote.Contracts.csprojAssemblyReference.cache
-C:\ElevenFiftyProjects\1_Blue\Projects\ElevenNote\ElevenNote.Contracts\obj\Debug\ElevenNote.Contracts.csproj.CoreCompileInputs.cache
 C:\ElevenFiftyProjects\1_Blue\Projects\ElevenNote\ElevenNote.Contracts\obj\Debug\ElevenNote.Contracts.csproj.CopyComplete
 C:\ElevenFiftyProjects\1_Blue\Projects\ElevenNote\ElevenNote.Contracts\obj\Debug\ElevenNote.Contracts.dll
 C:\ElevenFiftyProjects\1_Blue\Projects\ElevenNote\ElevenNote.Contracts\obj\Debug\ElevenNote.Contracts.pdb
+C:\ElevenFiftyProjects\1_Blue\Projects\ElevenNote\ElevenNote.Contracts\bin\Debug\Newtonsoft.Json.dll
+C:\ElevenFiftyProjects\1_Blue\Projects\ElevenNote\ElevenNote.Contracts\bin\Debug\System.Net.Http.Formatting.dll
+C:\ElevenFiftyProjects\1_Blue\Projects\ElevenNote\ElevenNote.Contracts\bin\Debug\System.Web.Http.dll
+C:\ElevenFiftyProjects\1_Blue\Projects\ElevenNote\ElevenNote.Contracts\bin\Debug\System.Web.Http.WebHost.dll
+C:\ElevenFiftyProjects\1_Blue\Projects\ElevenNote\ElevenNote.Contracts\bin\Debug\Newtonsoft.Json.xml
+C:\ElevenFiftyProjects\1_Blue\Projects\ElevenNote\ElevenNote.Contracts\bin\Debug\System.Net.Http.Formatting.xml
+C:\ElevenFiftyProjects\1_Blue\Projects\ElevenNote\ElevenNote.Contracts\bin\Debug\System.Web.Http.xml
+C:\ElevenFiftyProjects\1_Blue\Projects\ElevenNote\ElevenNote.Contracts\bin\Debug\System.Web.Http.WebHost.xml

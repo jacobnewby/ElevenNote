@@ -17,7 +17,14 @@ C:\ElevenFiftyProjects\1_Blue\Projects\ElevenNote\ElevenNote.Tests\bin\Debug\Mic
 C:\ElevenFiftyProjects\1_Blue\Projects\ElevenNote\ElevenNote.Tests\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.xml
 C:\ElevenFiftyProjects\1_Blue\Projects\ElevenNote\ElevenNote.Tests\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.xml
 C:\ElevenFiftyProjects\1_Blue\Projects\ElevenNote\ElevenNote.Tests\obj\Debug\ElevenNote.Tests.csprojAssemblyReference.cache
-C:\ElevenFiftyProjects\1_Blue\Projects\ElevenNote\ElevenNote.Tests\obj\Debug\ElevenNote.Tests.csproj.CoreCompileInputs.cache
 C:\ElevenFiftyProjects\1_Blue\Projects\ElevenNote\ElevenNote.Tests\obj\Debug\ElevenNote.Tests.csproj.CopyComplete
 C:\ElevenFiftyProjects\1_Blue\Projects\ElevenNote\ElevenNote.Tests\obj\Debug\ElevenNote.Tests.dll
 C:\ElevenFiftyProjects\1_Blue\Projects\ElevenNote\ElevenNote.Tests\obj\Debug\ElevenNote.Tests.pdb
+C:\ElevenFiftyProjects\1_Blue\Projects\ElevenNote\ElevenNote.Tests\bin\Debug\Newtonsoft.Json.dll
+C:\ElevenFiftyProjects\1_Blue\Projects\ElevenNote\ElevenNote.Tests\bin\Debug\System.Net.Http.Formatting.dll
+C:\ElevenFiftyProjects\1_Blue\Projects\ElevenNote\ElevenNote.Tests\bin\Debug\System.Web.Http.dll
+C:\ElevenFiftyProjects\1_Blue\Projects\ElevenNote\ElevenNote.Tests\bin\Debug\System.Web.Http.WebHost.dll
+C:\ElevenFiftyProjects\1_Blue\Projects\ElevenNote\ElevenNote.Tests\bin\Debug\Newtonsoft.Json.xml
+C:\ElevenFiftyProjects\1_Blue\Projects\ElevenNote\ElevenNote.Tests\bin\Debug\System.Net.Http.Formatting.xml
+C:\ElevenFiftyProjects\1_Blue\Projects\ElevenNote\ElevenNote.Tests\bin\Debug\System.Web.Http.xml
+C:\ElevenFiftyProjects\1_Blue\Projects\ElevenNote\ElevenNote.Tests\bin\Debug\System.Web.Http.WebHost.xml

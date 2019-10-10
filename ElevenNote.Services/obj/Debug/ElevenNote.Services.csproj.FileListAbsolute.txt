@@ -10,7 +10,6 @@ C:\ElevenFiftyProjects\1_Blue\Projects\ElevenNote\ElevenNote.Services\bin\Debug\
 C:\ElevenFiftyProjects\1_Blue\Projects\ElevenNote\ElevenNote.Services\bin\Debug\Microsoft.AspNet.Identity.Core.xml
 C:\ElevenFiftyProjects\1_Blue\Projects\ElevenNote\ElevenNote.Services\bin\Debug\Microsoft.AspNet.Identity.EntityFramework.xml
 C:\ElevenFiftyProjects\1_Blue\Projects\ElevenNote\ElevenNote.Services\obj\Debug\ElevenNote.Services.csprojAssemblyReference.cache
-C:\ElevenFiftyProjects\1_Blue\Projects\ElevenNote\ElevenNote.Services\obj\Debug\ElevenNote.Services.csproj.CoreCompileInputs.cache
 C:\ElevenFiftyProjects\1_Blue\Projects\ElevenNote\ElevenNote.Services\obj\Debug\ElevenNote.Services.csproj.CopyComplete
 C:\ElevenFiftyProjects\1_Blue\Projects\ElevenNote\ElevenNote.Services\obj\Debug\ElevenNote.Services.dll
 C:\ElevenFiftyProjects\1_Blue\Projects\ElevenNote\ElevenNote.Services\obj\Debug\ElevenNote.Services.pdb

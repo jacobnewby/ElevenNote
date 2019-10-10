@@ -25,6 +25,9 @@ namespace ElevenNote.WebMVC.Controllers
         //GET
         public ActionResult Create()
         {
+            var userId = Guid.Parse(User.Identity.GetUserId());
+            CategoryService service = new CategoryService(userId);
+            ViewBag.Categories = service.GetCategories();
             return View();
         }
 
@@ -66,6 +69,9 @@ namespace ElevenNote.WebMVC.Controllers
         {
             var service = CreateNoteService();
             var detail = service.GetNoteById(id);
+            var userId = Guid.Parse(User.Identity.GetUserId());
+            CategoryService service2 = new CategoryService(userId);
+            ViewBag.Categories = service2.GetCategories();
             var model =
                 new NoteEdit
                 {
