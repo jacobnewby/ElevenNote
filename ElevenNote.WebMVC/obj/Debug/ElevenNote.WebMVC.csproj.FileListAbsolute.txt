@@ -118,3 +118,5 @@ C:\ElevenFiftyProjects\1_Blue\Projects\ElevenNote\ElevenNote.WebMVC\bin\System.W
 C:\ElevenFiftyProjects\1_Blue\Projects\ElevenNote\ElevenNote.WebMVC\bin\System.Net.Http.Formatting.xml
 C:\ElevenFiftyProjects\1_Blue\Projects\ElevenNote\ElevenNote.WebMVC\bin\System.Web.Http.xml
 C:\ElevenFiftyProjects\1_Blue\Projects\ElevenNote\ElevenNote.WebMVC\bin\System.Web.Http.WebHost.xml
+C:\ElevenFiftyProjects\1_Blue\Projects\ElevenNote\ElevenNote.WebMVC\bin\Microsoft.Owin.Security.Cookies.dll
+C:\ElevenFiftyProjects\1_Blue\Projects\ElevenNote\ElevenNote.WebMVC\bin\Microsoft.Owin.Security.Cookies.xml
